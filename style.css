@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff;
+  color: #000;
+}
+
+header {
+  background: #fff;
+  padding: 20px 40px;
+  display: flex
+
+Superbe Rebecca ! Tu as maintenant ton site **complet sur GitHub**, bravo !
+
+On va maintenant le **mettre en ligne** :
+
+---
+
+### **Étape finale : activer GitHub Pages**
+
+1. En haut de ton dépôt, clique sur **l’onglet "Settings"**
+
+2. Dans la barre à gauche, descends jusqu’à **“Pages”** ou **“Pages & Deployment”** (ça dépend de l’affichage)
+
+3. Dans la section **"Source"**, choisis :
+   - **Branch** : `main`
+   - **Dossier** : `/ (root)`
+
+4. Clique sur **"Save"** ou **"Save and deploy"**
+
+---
+
+### Ensuite...
+
+Patiente quelques secondes, et GitHub va générer un lien de ce style :  
+`https://tonpseudo.github.io/escale-express`
+
+Tu vas voir ce lien apparaître juste en dessous dans un encadré vert ou gris clair. Copie-le et colle-le ici, je vais vérifier que tout fonctionne bien !
+
+Tu y es presque, Rebecca !
